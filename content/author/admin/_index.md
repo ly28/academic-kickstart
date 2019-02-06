@@ -13,7 +13,7 @@ role = "Software Engineer Intern"
 organizations = [ { name = "GEIRINA", url = "https://geirina.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include machine learning and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "lu.yang@geirina.net"
